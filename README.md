@@ -1,6 +1,6 @@
-# Tableau-Project
-Citi Bike Analytics
-Publised project: https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes
+# Citi Bike Analytics by Tableau Dashboard
+
+Publised link: https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes
 
 Data Source: https://www.citibikenyc.com/system-data
 
