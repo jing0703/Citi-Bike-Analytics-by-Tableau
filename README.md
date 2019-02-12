@@ -1,4 +1,5 @@
-# Citi Bike Analytics [View Dashboard](https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes)
+# Citi Bike Analytics 
+###[View Dashboard](https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes)
 
 
 ## Background
@@ -11,6 +12,7 @@ The aim of this project is to analyze and transform data into highly actionable 
 * Aggregated and cleaned up multiple datasets from [Citi Bike Trip History Logs](https://www.citibikenyc.com/system-data) by pandas
 
 * A concise, interactive, and visually compelling Tableau dashboard is created to dictate programmatic changes, such as:
+    
     How many trips have been recorded total during the chosen period?
     
     By what percentage has total ridership grown?
