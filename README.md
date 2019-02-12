@@ -1,5 +1,5 @@
 # Citi Bike Analytics 
-###[View Dashboard](https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes)
+### [View Dashboard](https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes)
 
 
 ## Background
