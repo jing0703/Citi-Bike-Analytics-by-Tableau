@@ -1,4 +1,4 @@
-# Citi Bike Analytics by Tableau Dashboard
+# Citi Bike Analytics
 
 ## Publised link: https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes
 
