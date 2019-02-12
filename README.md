@@ -1,15 +1,13 @@
-# Citi Bike Analytics
-
-## Publised link: https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes
+# Citi Bike Analytics [View Dashboard](https://public.tableau.com/profile/jing.xu2311#!/vizhome/2018CitiBikeAnalysis/Dashboard2?publish=yes)
 
 
-### Background
+## Background
 
 New York Citi Bike Program is the largest bike sharing program in the United States. Since 2013, each month's bike data is collected and made public on the Citi Bike Data webpage. However, while the data has been regularly updated, no sophisticated report has been generated.
 The aim of this project is to analyze and transform data into highly actionable insights for the New York Citi Bike Program's utilization.
 
 
-### Analytics techniques used & Questions tackled 
+## Analytics techniques used & Questions tackled 
 * Aggregated and cleaned up multiple datasets from [Citi Bike Trip History Logs](https://www.citibikenyc.com/system-data) by pandas
 
 * A concise, interactive, and visually compelling Tableau dashboard is created to dictate programmatic changes, such as:
